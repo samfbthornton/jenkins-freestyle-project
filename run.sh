@@ -1,2 +1,2 @@
 echo 'Hello from run.sh!'
-docker ls -a
+docker ls -l
