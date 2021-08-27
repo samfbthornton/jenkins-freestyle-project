@@ -1,2 +1,2 @@
 echo 'Hello from run.sh!'
-docker ps
+echo 'Pushed from a webhhok!'
